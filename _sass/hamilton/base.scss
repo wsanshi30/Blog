@@ -94,9 +94,9 @@ li {
  */
 a, a:visited {
   text-decoration: none;
-  font-weight: bold; // 变粗
-  font-style: italic;  // 取消倾斜
-  color: inherit; // 保持颜色一致
+  font-weight: bold;
+  font-style: italic;
+  color: green;
   
   &:hover {
     text-decoration: underline;
