@@ -1,0 +1,45 @@
+title: Tao Wang
+description: Document Growth
+author: WangTau
+avatar: /logo.png
+email: wangtao_psych@hotmail.com
+
+# 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
+url: 
+
+# 站点页脚的文字
+footer-text: Copyright (c) 2021 所有内容均属原创，转载必须联系本人进行授权
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+
+paginate: 10
+
+# Uncomment the below line and set the tracking ID for enabling Google Analytics
+#
+# google_analytics:
+
+# Uncomment the below lines and set the Disqus shortname for enabling Disqus
+#
+# disqus:
+
+# Jekyll
+# ======
+exclude:
+  - scripts/
+  - README.md
+  - jekyll-theme-hamilton.gemspec
+
+# Jekyll SEO Tag (Optional)
+# =========================
+
+logo: logo.png
+social:
+  name: Tao Wang
+  links:
+    - 
+google_site_verification: 
+lang: en
