@@ -92,10 +92,12 @@ li {
 /**
  * Links
  */
-a {
+a, a:visited {
   text-decoration: none;
+  font-weight: normal; // 取消变粗
+  font-style: normal;  // 取消倾斜
+  color: inherit; // 保持颜色一致
   
-
   &:hover {
     text-decoration: underline;
   }
