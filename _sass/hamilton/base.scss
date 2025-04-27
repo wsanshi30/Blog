@@ -92,12 +92,9 @@ li {
 /**
  * Links
  */
-a, a:visited {
+a {
   text-decoration: none;
-  font-weight: bold;
-  font-style: italic;
-  color: green;
-  
+
   &:hover {
     text-decoration: underline;
   }
