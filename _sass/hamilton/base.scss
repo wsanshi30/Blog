@@ -203,24 +203,29 @@ ul.task-list {
   }
 }
 
-// === 自定义导航链接样式：去除删除线并设置访问后加粗 ===
 
-// 默认和已访问状态：无删除线
+// —— 去掉删除线并设置链接交互状态样式 ——
+
+// 默认和已访问状态：去除删除线、使用斜体但不加粗
 a,
 a:visited {
   text-decoration: none !important;
+  font-style: italic;
+  font-weight: normal;
 }
 
-// 悬停、聚焦、点击状态：无删除线 + 加粗
+// 悬停、聚焦、点击状态：去除删除线、斜体 + 加粗
 a:hover,
 a:focus,
 a:active {
   text-decoration: none !important;
+  font-style: italic;
   font-weight: bold;
 }
 
-// 可选：当前页面链接加粗样式，需手动或动态添加 class="active"
+// 当前页面链接（需手动或动态添加 .active）：斜体 + 加粗
 a.active {
+  font-style: italic;
   font-weight: bold;
 }
 
