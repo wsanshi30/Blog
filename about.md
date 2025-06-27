@@ -4,7 +4,22 @@ title: About Me
 permalink: /about/
 ---
 
-#  About me
+My name is ***Tao Wang***, and I am originally from ***Anhui, China***. I earned my Master’s degree in ***Psychology*** from *Southwest University* under the mentorship of **Professor Jianmin Zeng**, whose guidance was instrumental throughout my graduate studies.
+
+During this time, I had the privilege of collaborating with esteemed researchers such as **Weijie Huang** and **Li Su**, which led to the publication of our research paper titled:
+
+> **“Right thalamic volume mediates impact of the dopamine beta-hydroxylase gene on the endowment effect”**  
+> Published in *Behavioural Brain Research*  
+> *[JCR: Q2; CiteScore: Q2]*
+
+In addition to empirical research, I also honed my skills in advanced analytical techniques, including **meta-analysis**. This expertise culminated in another publication:
+
+> **“Social decision-making in major depressive disorder: A three-level meta-analysis”**  
+> Published in *Journal of Psychiatric Research*  
+> *[JCR: Q1; CiteScore: Q1]*
+
+These academic experiences have equipped me with a solid foundation in both experimental and statistical methods, and continue to shape my ongoing research interests in psychology and neuroscience.
+
 
 My name is Tao Wang, and I am from Anhui. Under the guidance of [Assoc. Prof. Jianmin, Zeng](http://psy.swu.edu.cn/info/1035/1478.htm), I earned my Master's degree in [Psychology from Southwest University](http://psy.swu.edu.cn/#). Throughout my graduate studies, Professor Zeng's guidance was instrumental. I 
 had the opportunity to collaborate with esteemed researchers such as [Weijie Huang](https://www.researchgate.net/profile/Weijie-Huang-9) and [Li Su](https://www.researchgate.net/profile/Li-Su-10), leading 
