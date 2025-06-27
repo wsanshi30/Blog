@@ -28,7 +28,7 @@ permalink: /about/
 
 
 # 📝 Publications
-1. **Tao Wang**, Lixin Tan, Jianmin Zeng, & Yujie Yuan. (2025). The Seller Cost Effect. Experimental Psychology, 72(1), 14-26. [[HTML]](https://doi.org/10.1027/1618-3169/a000640)[[PDF]](/pdf/WangT-2025-05.pdf) SSCI (Q4)
+1. **Tao Wang**, Lixin Tan, Jianmin Zeng, & Yujie Yuan. (2025). The Seller Cost Effect. Experimental Psychology, 72(1), 14-26. [[HTML]](https://doi.org/10.1027/1618-3169/a000640)[[PDF]](/pdf/Wangt-2025-05.pdf) SSCI (Q4)
 2.  **Tao Wang**, Jianmin Zeng, Peiru Peng, & Qiao Yin. (2024). Social decision-making in major depressive disorder: A three-level meta-analysis. Journal of Psychiatric Research, 176, 293-303. [[HTML]](https://doi.org/https://doi.org/10.1016/j.jpsychires.2024.06.026)[[PDF]](/pdf/Wangt-2024-06.pdf) SSCI (Q1)
 3.  **Tao Wang**, Jianmin Zeng, Weijie Huang, Xiong Xiong, & Li Su. (2024). Right thalamic volume mediates impact of the dopamine beta-hydroxylase gene on the endowment effect. *Behavioural Brain Research*, 469, 115050. [[HTML]](https://doi.org/https://doi.org/10.1016/j.bbr.2024.115050)[[PDF]](/pdf/WangT-2024-05.pdf) SSCI (Q2)
 4.  **Tao Wang**, Jianmin Zeng, Yujie Yuan, Ying He, Jiayi Zhu, Beitong Lin, Qiao Yin, & Peiru Peng. (2024). Exploring the complex relationship between depression and risky decision-making: A meta-analysis. *Journal of Affective Disorders Reports*, 16, 100771.  [[HTML]](https://doi.org/https://doi.org/10.1016/j.jadr.2024.100771)[[PDF]](/pdf/WangT-2024-04.pdf)
