@@ -6,16 +6,16 @@ permalink: /about/
 
 # self-introduction
 
-Name: Wang Tao
-Major: Fundamental Psychology
-Degree: Master’s in Decision Science (2020–2023)
-Graduated from: Southwest University
-Technical Skills: R, Meta-Analysis, EEG, fMRI
-Research Interests: 
-- Decision-Making and Behavioral Economics 
-- Neuroeconomics
-- Meta-Analysis
-- Mental Health and Disorders
+-Name: Wang Tao
+-Major: Fundamental Psychology
+-Degree: Master’s in Decision Science (2020–2023)
+-Graduated from: Southwest University
+-Technical Skills: R, Meta-Analysis, EEG, fMRI
+-Research Interests: 
+-- Decision-Making and Behavioral Economics 
+-- Neuroeconomics
+-- Meta-Analysis
+-- Mental Health and Disorders
 
 
 # 🔥 News
