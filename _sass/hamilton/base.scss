@@ -202,3 +202,25 @@ ul.task-list {
     padding-left: $spacing-unit;
   }
 }
+
+// === 自定义导航链接样式：去除删除线并设置访问后加粗 ===
+
+// 默认和已访问状态：无删除线
+a,
+a:visited {
+  text-decoration: none !important;
+}
+
+// 悬停、聚焦、点击状态：无删除线 + 加粗
+a:hover,
+a:focus,
+a:active {
+  text-decoration: none !important;
+  font-weight: bold;
+}
+
+// 可选：当前页面链接加粗样式，需手动或动态添加 class="active"
+a.active {
+  font-weight: bold;
+}
+
