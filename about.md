@@ -4,44 +4,42 @@ title: About Me
 permalink: /about/
 ---
 
-My name is ***Tao Wang***, and I am originally from ***Anhui, China***. I earned my Master’s degree in ***Psychology*** from *Southwest University* under the mentorship of **Professor Jianmin Zeng**, whose guidance was instrumental throughout my graduate studies.
+My name is ***Tao Wang***, and I am originally from ***Anhui, China***. Under the guidance of [***Professor Jianmin Zeng***](http://psy.swu.edu.cn/info/1035/1478.htm), I earned my Master's degree in [***Psychology from Southwest University***](http://psy.swu.edu.cn/#). Throughout my graduate studies, Professor Zeng’s mentorship played a vital role in shaping my academic development.
 
-During this time, I had the privilege of collaborating with esteemed researchers such as **Weijie Huang** and **Li Su**, which led to the publication of our research paper titled:
+During this period, I had the privilege of collaborating with esteemed researchers such as [***Weijie Huang***](https://www.researchgate.net/profile/Weijie-Huang-9) and [***Li Su***](https://www.researchgate.net/profile/Li-Su-10). Our collaboration resulted in the publication of the paper:
 
-> **“Right thalamic volume mediates impact of the dopamine beta-hydroxylase gene on the endowment effect”**  
+> ***"Right thalamic volume mediates impact of the dopamine beta-hydroxylase gene on the endowment effect"***  
 > Published in *Behavioural Brain Research*  
-> *[JCR: Q2; CiteScore: Q2]*
+> *[JCR: **Q2**; CiteScore: **Q2**]*
 
-In addition to empirical research, I also honed my skills in advanced analytical techniques, including **meta-analysis**. This expertise culminated in another publication:
+In addition, I developed strong proficiency in advanced research methodologies, particularly ***meta-analysis***. This expertise led to another publication:
 
-> **“Social decision-making in major depressive disorder: A three-level meta-analysis”**  
+> ***"Social decision-making in major depressive disorder: A three-level meta-analysis"***  
 > Published in *Journal of Psychiatric Research*  
-> *[JCR: Q1; CiteScore: Q1]*
+> *[JCR: **Q1**; CiteScore: **Q1**]*
 
-These academic experiences have equipped me with a solid foundation in both experimental and statistical methods, and continue to shape my ongoing research interests in psychology and neuroscience.
+---
 
+## Research Interests
 
-My name is Tao Wang, and I am from Anhui. Under the guidance of [Assoc. Prof. Jianmin, Zeng](http://psy.swu.edu.cn/info/1035/1478.htm), I earned my Master's degree in [Psychology from Southwest University](http://psy.swu.edu.cn/#). Throughout my graduate studies, Professor Zeng's guidance was instrumental. I 
-had the opportunity to collaborate with esteemed researchers such as [Weijie Huang](https://www.researchgate.net/profile/Weijie-Huang-9) and [Li Su](https://www.researchgate.net/profile/Li-Su-10), leading 
-to our publication, "Right thalamic volume mediates impact of the dopamine beta-hydroxylase gene on the endowment effect" in the well-regarded journal, *Behavioural Brain Research* [JCR: **Q2**; CiteScore: **Q2**]. Additionally, I developed proficiency in advanced research techniques including meta-analysis, which enabled me to publish a paper titled "Social decision-making in major depressive disorder: A three-level meta-analysis", in the *Journal of Psychiatric Research* [JCR: **Q1**; CiteScore: **Q1**]."
-
-**My research interest includes:**
-- Decision-making
-- Behavioural economics
-- Neuroeconomics
-- Mental disorders
-- Meta-analysis
+- ***Decision-making***
+- ***Behavioural economics***
+- ***Neuroeconomics***
+- ***Mental disorders***
+- ***Meta-analysis***
 
 
 &nbsp;
 &nbsp;
 
 # 🔥 News
-- 2025.04:  🎉🎉🎉 I'm pleased to share that my manuscript, "The Seller Cost Effect," has been accepted for publication in Experimental Psychology.
-- 2025.01:  🎉🎉🎉 I was honored with the Scientific Achievement Award (10,000 RMB) by the Faculty of Psychology, Southwest University.
-- *2024.08*: &nbsp;🎉🎉🎉 Tao Wang published an article as the first author in the ***Journal of Psychiatric Research*** (JCR:Q1; CiteScore: Q1). 
-- *2024.07*: &nbsp;🎉🎉🎉 Tao Wang published an article as the first author in the ***Behavioural Brain Research*** (JCR:Q2; CiteScore: Q2).
-- *2024.04*: &nbsp;🎉🎉🎉 Tao Wang published an article as the first author in the ***Journal of Affective Disorders Reports*** (CiteScore: Q2).
+
+- ***2025.04***: 🎉🎉🎉 I'm pleased to share that my manuscript, *"The Seller Cost Effect"*, has been accepted for publication in *Experimental Psychology*.
+- ***2025.01***: 🎉🎉🎉 I was honored with the *Scientific Achievement Award* (10,000 RMB) by the Faculty of Psychology, Southwest University.
+- ***2024.08***: &nbsp;🎉🎉🎉 Published a first-author article in the ***Journal of Psychiatric Research*** *(JCR: Q1; CiteScore: Q1)*.
+- ***2024.07***: &nbsp;🎉🎉🎉 Published a first-author article in the ***Behavioural Brain Research*** *(JCR: Q2; CiteScore: Q2)*.
+- ***2024.04***: &nbsp;🎉🎉🎉 Published a first-author article in the ***Journal of Affective Disorders Reports*** *(CiteScore: Q2)*.
+
 
 &nbsp;
 &nbsp;
