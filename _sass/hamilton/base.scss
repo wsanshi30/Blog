@@ -204,28 +204,31 @@ ul.task-list {
 }
 
 
-// —— 去掉删除线并设置链接交互状态样式 ——
+// —— 自定义链接样式：深紫色 + 斜体 + 加粗 ——
 
-// 默认和已访问状态：去除删除线、使用斜体但不加粗
+// 你可以使用 HEX 颜色值 #3A243B 表示 “Deep Purple” 深紫色 :contentReference[oaicite:1]{index=1}
+
 a,
 a:visited {
-  text-decoration: none !important;
-  font-style: italic;
-  font-weight: normal;
+  text-decoration: none !important;   // 去掉默认的删除线
+  font-style: italic;                 // 斜体
+  font-weight: normal;                // 正常粗细
+  color: #3A243B;                     // 深紫色字体
 }
 
-// 悬停、聚焦、点击状态：去除删除线、斜体 + 加粗
 a:hover,
 a:focus,
 a:active {
   text-decoration: none !important;
   font-style: italic;
-  font-weight: bold;
+  font-weight: bold;                  // 加粗
+  color: #3A243B;                     // 保持颜色一致，也可换为更亮色
 }
 
-// 当前页面链接（需手动或动态添加 .active）：斜体 + 加粗
+/* 可选：当前页面链接常显加粗与斜体，可手动加上 class="active" */
 a.active {
   font-style: italic;
   font-weight: bold;
+  color: #3A243B;
 }
 
