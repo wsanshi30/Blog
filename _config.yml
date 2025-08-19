@@ -1,7 +1,7 @@
 title: Tao Wang
 description: Document Growth
 author: WangTau
-avatar: /think.png
+avatar: /thinker.png
 email: wangtao_psych@hotmail.com
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
@@ -36,7 +36,7 @@ exclude:
 # Jekyll SEO Tag (Optional)
 # =========================
 
-logo: think.png
+logo: thinker.png
 social:
   name: Tao Wang
   links:
